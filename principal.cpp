@@ -1,8 +1,8 @@
 #include <iostream>
 #using namespace std;
+#include "Ejercicio1.cpp"
 
-int main(int argc, char const *argv[])
+void main()
 {
-    /*CODIGO AQUI*/
     return 0;
 }
