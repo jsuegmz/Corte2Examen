@@ -14,7 +14,7 @@ double Bono(int llamadas) {
     }
 }
 
-int main() {
+int ejercicio3() {
     int llamadas;
     cout << "Ingrese el numero de llamadas que recibo: ";
     cin >> llamadas;
@@ -24,7 +24,7 @@ int main() {
     if (bono > 0.00) {
         cout << "El empleado ha recibido un bono de C$" << bono;
     } else {
-        cout << "El empleado no ha alcanzado el monto mínimo de llamadas para recibir un bono";
+        cout << "El empleado no ha alcanzado el monto mínimo de llamadas para recibir un bono" << endl;
     }
 
     return 0;
