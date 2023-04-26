@@ -18,7 +18,7 @@ void PrecioTotal(float total) {
     cout << "El precio total despues del IVA del 5% es: C$" << total << endl;
 }
 
-int main()
+int ejercicio2()
 {
     int ham1, ham2, ham3; 
     float subtotal, total, iva;
