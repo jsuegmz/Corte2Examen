@@ -23,7 +23,7 @@ float calcularDescuento(float precio, int cantidad){
      return subtotal - descuento + iva;
    }
 
-   int main() {
+   int ejercicio1() {
        float precioArticulo;
        int cantidad;
 
